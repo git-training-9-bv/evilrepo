@@ -1,2 +1,2 @@
-Welcome to teh evil!
+Welcome to the evil!
 ====================
